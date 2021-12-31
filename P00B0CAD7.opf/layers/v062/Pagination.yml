@@ -1,0 +1,92 @@
+id: d176c32a94484a4981b4412c8fd3db48
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  579e3d868d1f4d28bb00c4f29a07e055:
+    imgnum: 917
+    reference: ''
+    span:
+      start: 0
+      end: 697
+    note_ref: 8a346180002f44c5b65d827939ac0fb2
+  c05ba8294fe943da9f63f9bc12922553:
+    imgnum: 918
+    reference: ''
+    span:
+      start: 700
+      end: 1967
+    note_ref: 8a346180002f44c5b65d827939ac0fb2
+  ffbd386f160c4b85b1d6e9356afe5a63:
+    imgnum: 919
+    reference: ''
+    span:
+      start: 1970
+      end: 3268
+    note_ref: 8a346180002f44c5b65d827939ac0fb2
+  22b7be57e4744a42a3e6e2a994a3e181:
+    imgnum: 920
+    reference: ''
+    span:
+      start: 3271
+      end: 4538
+    note_ref: 8a346180002f44c5b65d827939ac0fb2
+  93ab4cf4f28f404e9920b9e621367f16:
+    imgnum: 921
+    reference: ''
+    span:
+      start: 4541
+      end: 5812
+    note_ref: 8a346180002f44c5b65d827939ac0fb2
+  6f138b4f6f904b2ca98c811d8b3f6d43:
+    imgnum: 922
+    reference: ''
+    span:
+      start: 5815
+      end: 7094
+    note_ref: 8a346180002f44c5b65d827939ac0fb2
+  b6ab644b29cc4d0ca5d1a64fb5185420:
+    imgnum: 923
+    reference: ''
+    span:
+      start: 7097
+      end: 8427
+    note_ref: 8a346180002f44c5b65d827939ac0fb2
+  247cbb1981ce4f6d9af69cb9e40b74c6:
+    imgnum: 924
+    reference: ''
+    span:
+      start: 8430
+      end: 9749
+    note_ref: 15ab786d7abd4ec9b976c04e275f0d6b
+  d2e974535b5b4d1fa07c24b13bfc3934:
+    imgnum: 925
+    reference: ''
+    span:
+      start: 9752
+      end: 11056
+    note_ref: 15ab786d7abd4ec9b976c04e275f0d6b
+  8a346180002f44c5b65d827939ac0fb2:
+    imgnum: 926
+    reference: ''
+    span:
+      start: 11059
+      end: 12527
+    note_ref: 15ab786d7abd4ec9b976c04e275f0d6b
+  15ab786d7abd4ec9b976c04e275f0d6b:
+    imgnum: 927
+    reference: ''
+    span:
+      start: 12530
+      end: 13504
+local_ids:
+  579e3d868d1f4d28bb00c4f29a07e055: 200000
+  c05ba8294fe943da9f63f9bc12922553: 200001
+  ffbd386f160c4b85b1d6e9356afe5a63: 200002
+  22b7be57e4744a42a3e6e2a994a3e181: 200003
+  93ab4cf4f28f404e9920b9e621367f16: 200004
+  6f138b4f6f904b2ca98c811d8b3f6d43: 200005
+  b6ab644b29cc4d0ca5d1a64fb5185420: 200006
+  247cbb1981ce4f6d9af69cb9e40b74c6: 200007
+  d2e974535b5b4d1fa07c24b13bfc3934: 200008
+  8a346180002f44c5b65d827939ac0fb2: 200009
+  15ab786d7abd4ec9b976c04e275f0d6b: 200010
